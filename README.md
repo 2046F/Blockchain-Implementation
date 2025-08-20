@@ -37,4 +37,4 @@ This project demonstrates the **core concepts of blockchain, cryptocurrency, and
 ## ▶️ Running the Project
 ### On **Desktop**
 ```bash
-python blockchain.py
+python main.py
